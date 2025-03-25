@@ -18,7 +18,7 @@ MM '23: Proceedings of the 31st ACM International Conference on Multimedia
 ## Getting Started
 1. Clone this repo:  
 ```
-   git clone https://github.com/hahhacx/In-UCDS  
+   git clone https://github.com/hahhacx/In-UCDS.git  
    cd In-UCDS
 ``` 
 2. Create a Virtual Environment  
