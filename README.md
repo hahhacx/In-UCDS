@@ -32,7 +32,7 @@ MM '23: Proceedings of the 31st ACM International Conference on Multimedia
 ```
 
 ## Dataset
-The complete source code, including datasets, is available on both [Baidu Netdisk]()  and [Google Drive]().
+The complete source code, including datasets, is available on both [Baidu Netdisk](https://pan.baidu.com/s/1M_po-XV9u1_L0j7TfCfr2g)  and [Google Drive](https://drive.google.com/drive/folders/1L1tTwiRsuXU_pkDguPJA6BD_5IzJB0Fq?usp=sharing).
 
 ## Training 
 Run the following command to start training:
@@ -41,7 +41,7 @@ python main.py
 ```
 
 ## Testing
-The trained models (weights) are available at [here]().Download it, replace the `logs` folder, select the recommendation model and dataset you want to evaluate, and run the following code:
+The trained models (weights) are available at [here](https://drive.google.com/drive/folders/17D5sp5mdNOIgRAXohBHU5fBg6-T4BMlk?usp=sharing).Download it, replace the `logs` folder, select the recommendation model and dataset you want to evaluate, and run the following code:
 ```
 python test.py
 ```
